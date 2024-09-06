@@ -1,7 +1,7 @@
 # Master-Thesis---Asteroid-classification
 This is the Python code for my master's thesis on Asteroid Classification Using Gaia Spectroscopy and Photometry. The thesis with explained methodology can be viewed here: https://helda.helsinki.fi/items/5504be05-9691-4c63-a772-0e1cab9ddb91.
 
-The code is presented as a jupyter notebook file and as a .py file. The data needed to run the code is not provided, since some of it is not yet published and thus not in public access.
+The code is presented as a jupyter notebook file. The data needed to run the code is not provided, since some of it is not yet published and thus not in public access.
 
 <img src="Figures/predictedpca1vs2.png" alt="PCA 1 vs 2" width="490"/> <img src="Figures/predictedpca1vs3.png" alt="PCA 1 vs 3" width="490"/>
 *The 4,117 previously unlabeled asteroids plotted using their PCA components ([Section 3.1.4](https://helda.helsinki.fi/items/5504be05-9691-4c63-a772-0e1cab9ddb91)) and colour-coded with newly predicted asteroid taxonomy labels.*
