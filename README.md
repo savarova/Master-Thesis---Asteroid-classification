@@ -27,3 +27,4 @@ To run this code, you will need the following Python libraries:
 - `scikit-learn`
 - `SciPy`
 - `PyTorch`
+- `matplotlib`
