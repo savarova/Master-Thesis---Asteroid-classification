@@ -4,6 +4,7 @@ This is the Python code for my master's thesis on Asteroid Classification Using 
 The code is presented as a jupyter notebook file. The data needed to run the code is not provided, since some of it is not yet published and thus not in public access.
 
 <img src="Figures/predictedpca1vs2.png" alt="PCA 1 vs 2" width="490"/> <img src="Figures/predictedpca1vs3.png" alt="PCA 1 vs 3" width="490"/>
+
 *The 4,117 previously unlabeled asteroids plotted using their PCA components ([Section 3.1.4](https://helda.helsinki.fi/items/5504be05-9691-4c63-a772-0e1cab9ddb91)) and colour-coded with newly predicted asteroid taxonomy labels.*
 
 <img src="Figures/confusmatrx.png" alt="The confusion matrix showing the performance of the neural network with data combination VIII." width="900" class="center"/>
